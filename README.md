@@ -1,5 +1,5 @@
 # Pandasai_Llama2
-Quantization LLM with LLM to analysis CSV data
+Quantization LLM with LLM to analysis CSV data. This is completly local deployed model to prevent data lakage issue.
 
 This is a exmpale usage of Quantizatied LLM with CSV agent implementation to perform data analysis in natural lanaguage.
 
