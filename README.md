@@ -5,6 +5,6 @@ This is a exmpale usage of Quantizatied LLM with CSV agent implementation to per
 
 Wizardcoder-python-34b from huggingface is used as base LLM for the agent.
 
-Pandasai will use the LLM to generate python code to for data analysis, the screen shot below is an exmple code generation for making a scatter plot by matplotlib. 
+Pandasai will use the LLM to generate python code to for data analysis, the screen shot below is an exmple code generation for making a scatter plot by matplotlib. The prompt is  "make a scatter plot of sepallength vs sepalwidth color by class".
 
 ![](/example1.PNG)
